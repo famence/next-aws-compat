@@ -1,0 +1,38 @@
+{
+  "name": "next-aws-compat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/famence/next-aws-compat.git"
+  },
+  "files": [
+    "lib/**",
+    "index.js"
+  ],
+  "keywords": [
+    "next.js",
+    "nextjs",
+    "next",
+    "serverless",
+    "s8s",
+    "sls",
+    "yc",
+    "yandex",
+    "cloud",
+    "yandex.cloud",
+    "functions",
+    "lambda",
+    "api",
+    "gateway",
+    "node",
+    "bridge"
+  ],
+  "author": "Andrey Madzhidov <famence@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/famence/next-yc-compat/issues"
+  },
+  "homepage": "https://github.com/famence/next-yc-compat#readme"
+}
